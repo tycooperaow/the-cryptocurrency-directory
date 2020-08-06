@@ -91,7 +91,7 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Blockchair](https://blockchair.com/)
 - [Blockcypher](https://www.blockcypher.com/)
 
-##Books
+## Books
 - [The Bitcoin Standard: The Decentralized Alternative to Central Banking ](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_4?dchild=1&keywords=bitcoin%27&qid=1596716478&sr=8-4)
 - [Bitcoin Money: A Tale of Bitville Discovering Good Money](https://www.amazon.com/Bitcoin-Money-Tale-Bitville-Discovering/dp/0578490676/ref=sr_1_1?dchild=1&keywords=bitcoin+for+kids&qid=1596716471&sr=8-1)
 - [Bitcoin For Dummies 1st Edition](https://www.amazon.com/Bitcoin-Dummies-Prypto/dp/1119076137/ref=sr_1_13?dchild=1&keywords=bitcoin%27&qid=1596716478&sr=8-13)
