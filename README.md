@@ -37,6 +37,7 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [trustwallet](https://trustwallet.com/)
 - [Bitcoin Paper Wallet](https://walletgenerator.net/)
 - [My Ether Wallet | Ethereum Paperwallets](https://www.myetherwallet.com/)
+- [Emerald](https://emerald.cash/)
 
 **Crypto Peer-to-Peer Exchange**
 - [Local Bitcoins](https://localbitcoins.com/)
