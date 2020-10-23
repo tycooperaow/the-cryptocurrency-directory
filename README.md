@@ -203,6 +203,10 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Defiwatch](https://defiwatch.io/)
 - [1inch](https://1inch.exchange/#/)
 - [Unlock-Protocol](https://unlock-protocol.com/)
+- [Nexus Mutual](https://nexusmutual.io/)
+- [Defi Yield Info](https://defiyield.info/)
+- [Zerion](https://zerion.io/)
+- [Argent](https://www.argent.xyz/)
 
 
 ## Ethereum Ecosystem
