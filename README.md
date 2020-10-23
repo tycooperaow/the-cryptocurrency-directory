@@ -221,6 +221,7 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Coindesk](https://www.coindesk.com/)
 - [Cointelegraph](https://cointelegraph.com/)
 - [Decrypt](https://decrypt.co/)
+- [Blockchain News](https://blockchain.news/)
 - [The Defiant](https://thedefiant.substack.com/)
 - [Forbes: Crypto & Blockchain](https://www.forbes.com/crypto-blockchain/#6f3342272b6e)
 
@@ -240,6 +241,7 @@ This guide will list out all the helpful resources and tools to navigate learnin
 
 ## YouTube Channels
 - [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+- [Finematics](https://www.youtube.com/c/Finematics)
 - [Ivan on Tech](https://www.youtube.com/user/LiljeqvistIvan)
 - [Altcoin Daily](https://www.youtube.com/channel/UCbLhGKVY-bJPcawebgtNfbw)
 - [Lark Davis](https://www.youtube.com/user/larksongbird01)
