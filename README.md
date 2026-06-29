@@ -76,6 +76,7 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Origin Protocol](https://www.originprotocol.com/en)
 
 **Crypto Games**
+- [Block Lottos](https://blocklottos.com/games)
 - [Godsunchained](https://godsunchained.com/)
 - [Cryptokitties](https://www.cryptokitties.co/)
 - [Decentraland](https://www.decentraland.org/)
