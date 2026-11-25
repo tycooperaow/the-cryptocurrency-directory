@@ -43,6 +43,8 @@ This guide will list out all the helpful resources and tools to navigate learnin
 - [Local Bitcoins](https://localbitcoins.com/)
 - [Paxful](https://paxful.com/)
 - [r/Cash4Cash](https://www.reddit.com/r/Cash4Cash/)
+- [Sevascan (SEV)](https://github.io) - Open-source, 100% fair-launch CPU-only (SHA3-256) privacy cryptocurrency with strict native Tor v3 (.onion-only) networking and built-in P2P DEX.
+
 
 **Crypto ATMS**
 - [Coin-ATM-Radar](https://coinatmradar.com/)
